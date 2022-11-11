@@ -1,5 +1,7 @@
 public class School {
     public static void main(String[] args) {
+
+        //Criando objetos
         Student John = new Student();
         John.nome = "John";
         John.idade = 12;
@@ -17,6 +19,5 @@ public class School {
         Marcos.idade = 13;
         Marcos.cor = "pardo";
         Marcos.sexo = "M";
-        
     }
 }

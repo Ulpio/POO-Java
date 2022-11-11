@@ -6,9 +6,10 @@ public class Student {
 
     public static void main(String[] args) {
         
+        
     }
 
-
+//METODOS
     public void eating(){
         System.out.println("Comeu");
     }
